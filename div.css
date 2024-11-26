@@ -1,0 +1,71 @@
+h2{
+    color: #f1f1f1;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -120px;
+    margin-right: -150px;
+    padding: 0%;
+}
+#icon{
+    width: 50px ;
+    margin-right: 15px;
+    
+}
+
+.saad{
+    border:solid rgb(190, 190, 190); 
+    border-radius: 35px;
+    border: hidden;
+    width: 300px;
+    padding: 15%;
+    background-color: rgb(39, 39, 39);
+    margin: auto;
+    margin-top: 11%;
+    padding-top:1%;
+    padding-bottom: 3%;
+
+
+}
+body{
+background-image: url(711094.jpg);
+background-position:center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+.butt{
+    background-color: rgb(56, 55, 55);
+    margin-left: 38px;
+    border-radius: 5px;
+    font-size: 25px;
+    color: #f1f1f1;
+    border-color: rgb(44, 43, 43);
+    padding: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.label{
+
+color: #f1f1f1;
+font-size: 27px;
+margin-left: 1%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 0%;
+margin-top: 5px;
+font-size: 25px;
+border-radius: 7px;
+border-width: 4px;
+border-color: aliceblue;
+align-items: end;
+}
+
+p{
+    color: rgb(131, 166, 219);
+    margin-left: 107px;
+    margin-top: -25px;
+}
